@@ -1,5 +1,5 @@
 # Terraform_docker
-Terraform code to build docker containers
+Terraform code to build docker container for nginx web-server
 
 Make sure you have installed the terraform and docker on your machine
 
